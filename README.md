@@ -1,7 +1,7 @@
 # 2025_Spring_ES26_ES294-Harvard College/SEAS
 ## Teaching Team: 
     Course instructor: Dr Fawaaz Habbal
-    Lab instructor: Edward Hong Wang, 
+    Lab instructor: Edward Hong Wang
     TA: Benjamin Villa, Alice Cai
     
 
